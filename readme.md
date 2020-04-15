@@ -10,7 +10,7 @@ This repo is to use BDD with Cucumber, JavaScript, Feature files as part of norm
 > 1 Test to Check valid account/sortcode are correct and both invalid sort code  / account numbers 
 
 Support
-Google+ Community: https://plus.google.com/communities/105153134372062985968
+
 
 
 License
